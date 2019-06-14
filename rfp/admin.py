@@ -1,0 +1,5 @@
+from .models import GovernmentsBidsUser,GovernmentBidsProfile,Subscribers, DataCleaning_GovernmentBidsProfile,RFPMartUser,RFPMartUserProfile,NEWRFPLINK,RFPGurusMainCategory,RFPGurusStates,UnsubscriberQuery,UserWishlist
+from django.contrib import admin
+
+# Register your models here.
+admin.site.register([GovernmentsBidsUser,GovernmentBidsProfile, DataCleaning_GovernmentBidsProfile,RFPMartUser,RFPMartUserProfile,RFPGurusMainCategory,RFPGurusStates,UnsubscriberQuery,Subscribers,UserWishlist])
