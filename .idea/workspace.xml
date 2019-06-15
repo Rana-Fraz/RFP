@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7642f551-91d7-4b92-a58e-2935d0982114" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/RFPGurus/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/RFPGurus/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Procfile" beforeDir="false" afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -48,15 +48,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/category/models.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="25" column="22" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/RFPGurus/settings.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="232">
@@ -65,20 +56,25 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/runtime.txt">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Procfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+            <state>
+              <caret column="20" selection-start-column="20" selection-end-column="20" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/requirements.txt">
+        <entry file="file://$PROJECT_DIR$/manage.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/runtime.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1224">
-              <caret line="72" column="14" selection-start-line="72" selection-start-column="14" selection-end-line="72" selection-end-column="14" />
+            <state relative-caret-position="17">
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
         </entry>
@@ -198,7 +194,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/core/signals.py" />
         <option value="$PROJECT_DIR$/core/apps.py" />
         <option value="$PROJECT_DIR$/core/templates/rfp-gurus-activation.html" />
         <option value="$PROJECT_DIR$/core/templates/rfp-gurus-reset-password.html" />
@@ -249,10 +244,11 @@
         <option value="$PROJECT_DIR$/modelMappping.py" />
         <option value="$PROJECT_DIR$/runtime.txt" />
         <option value="$PROJECT_DIR$/RFPGurus/settings.py" />
+        <option value="$PROJECT_DIR$/Procfile" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="10" />
     <option name="y" value="2" />
     <option name="width" value="1590" />
@@ -270,11 +266,6 @@
             <path>
               <item name="RFP" type="b2602c69:ProjectViewProjectNode" />
               <item name="RFP" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="RFP" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RFP" type="462c0819:PsiDirectoryNode" />
-              <item name="RFPGurus" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -480,12 +471,12 @@
       <workItem from="1556633516155" duration="3000" />
       <workItem from="1560512795284" duration="2425000" />
       <workItem from="1560575421357" duration="2364000" />
-      <workItem from="1560580950490" duration="8857000" />
+      <workItem from="1560580950490" duration="9421000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13649000" />
+    <option name="totallyTimeSpent" value="14213000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-1" width="1600" height="873" extended-state="6" />
@@ -578,13 +569,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/blog/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4843">
-          <caret line="167" column="12" selection-start-line="167" selection-start-column="12" selection-end-line="167" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/blog/models.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="696">
@@ -742,9 +726,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../../rfpbackend/venv1/local/lib/python2.7/site-packages/fuzzywuzzy/fuzz.py" />
-    <entry file="file://$PROJECT_DIR$/manage.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/zzzzz.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -894,6 +875,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="232">
           <caret line="94" column="49" selection-start-line="94" selection-start-column="49" selection-end-line="94" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manage.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Procfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="20" selection-start-column="20" selection-end-column="20" />
         </state>
       </provider>
     </entry>
