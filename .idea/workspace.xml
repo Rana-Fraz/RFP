@@ -246,7 +246,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="10" />
     <option name="y" value="2" />
     <option name="width" value="1590" />
@@ -264,11 +264,6 @@
             <path>
               <item name="RFP" type="b2602c69:ProjectViewProjectNode" />
               <item name="RFP" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="RFP" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RFP" type="462c0819:PsiDirectoryNode" />
-              <item name="RFPGurus" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -474,18 +469,18 @@
       <workItem from="1556633516155" duration="3000" />
       <workItem from="1560512795284" duration="2425000" />
       <workItem from="1560575421357" duration="2364000" />
-      <workItem from="1560580950490" duration="10144000" />
+      <workItem from="1560580950490" duration="10683000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14936000" />
+    <option name="totallyTimeSpent" value="15475000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="-1" width="1600" height="873" extended-state="6" />
+    <frame x="0" y="-1" width="1600" height="873" extended-state="7" />
     <layout>
       <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.16151866" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.16151866" />
       <window_info id="Favorites" order="2" weight="0.32947233" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32977304" />
@@ -497,7 +492,7 @@
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.20790155" side_tool="true" weight="0.32262382" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Python Console" order="9" weight="0.32843792" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.87045455" visible="true" weight="0.39586207" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.87045455" visible="true" weight="0.39586207" />
       <window_info anchor="bottom" id="Version Control" order="11" />
       <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
