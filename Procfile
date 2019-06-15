@@ -1,2 +1,2 @@
-web: gunicorn RFPGurus.wsgi --log-file -
+web: gunicorn RFPGurus.wsgi
 
