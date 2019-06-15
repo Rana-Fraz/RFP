@@ -1,2 +1,2 @@
-web: python RFPGurus/manage.py runserver 0.0.0.0:$PORT --noreload
+web: gunicorn RFPGurus.wsgi --log-file -
 
