@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7642f551-91d7-4b92-a58e-2935d0982114" name="Default" comment="" />
+    <list default="true" id="7642f551-91d7-4b92-a58e-2935d0982114" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +60,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/RFPGurus/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="335">
+            <state relative-caret-position="3944">
               <caret line="235" column="40" selection-start-line="235" selection-start-column="40" selection-end-line="235" selection-end-column="40" />
             </state>
           </provider>
@@ -190,6 +193,9 @@
       <dir>$PROJECT_DIR$/rfp</dir>
     </dirStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -247,7 +253,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="10" />
     <option name="y" value="2" />
     <option name="width" value="1590" />
@@ -258,23 +264,18 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="rfp-backend" type="b2602c69:ProjectViewProjectNode" />
-              <item name="rfp-backend" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="rfp-backend" type="b2602c69:ProjectViewProjectNode" />
-              <item name="rfp-backend" type="462c0819:PsiDirectoryNode" />
-              <item name="RFPGurus" type="462c0819:PsiDirectoryNode" />
+              <item name="RFP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RFP" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -445,12 +446,12 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Django server.RFPGurus" />
       <item itemvalue="Python.function" />
       <item itemvalue="Python.mapping" />
       <item itemvalue="Python.modelMappping" />
       <item itemvalue="Python.service_exclude" />
       <item itemvalue="Python.tokens" />
+      <item itemvalue="Django server.RFPGurus" />
     </list>
     <recent_temporary>
       <list>
@@ -475,18 +476,18 @@
       <workItem from="1556633516155" duration="3000" />
       <workItem from="1560512795284" duration="2425000" />
       <workItem from="1560575421357" duration="2364000" />
+      <workItem from="1560580950490" duration="3549000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4792000" />
+    <option name="totallyTimeSpent" value="8341000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-1" width="1600" height="873" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.15958816" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.16151866" />
       <window_info id="Favorites" order="2" weight="0.32947233" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32977304" />
@@ -498,8 +499,8 @@
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.20790155" side_tool="true" weight="0.32262382" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Python Console" order="9" weight="0.32843792" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.87045455" visible="true" weight="0.3953168" />
-      <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.87045455" visible="true" weight="0.39586207" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
       <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -727,13 +728,7 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/testfile.csv" />
-    <entry file="file://$PROJECT_DIR$/../../rfpbackend/venv1/local/lib/python2.7/site-packages/fuzzywuzzy/process.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../../rfpbackend/venv1/local/lib/python2.7/site-packages/fuzzywuzzy/process.py" />
     <entry file="file://$PROJECT_DIR$/rfp/views.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="22575">
@@ -741,9 +736,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../rfpbackend/venv1/local/lib/python2.7/site-packages/fuzzywuzzy/fuzz.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../../rfpbackend/venv1/local/lib/python2.7/site-packages/fuzzywuzzy/fuzz.py" />
     <entry file="file://$PROJECT_DIR$/manage.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -831,6 +824,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/RFPGurus/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3944">
+          <caret line="235" column="40" selection-start-line="235" selection-start-column="40" selection-end-line="235" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/requirements.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1224">
@@ -871,13 +871,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/service_exclude.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="51" selection-start-line="27" selection-start-column="51" selection-end-line="27" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/RFPGurus/wsgi.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -885,10 +878,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/RFPGurus/settings.py">
+    <entry file="file://$PROJECT_DIR$/service_exclude.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="335">
-          <caret line="235" column="40" selection-start-line="235" selection-start-column="40" selection-end-line="235" selection-end-column="40" />
+        <state relative-caret-position="459">
+          <caret line="27" column="51" selection-start-line="27" selection-start-column="51" selection-end-line="27" selection-end-column="51" />
         </state>
       </provider>
     </entry>

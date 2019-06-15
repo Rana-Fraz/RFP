@@ -86,7 +86,6 @@ incremental==17.5.0
 ipaddress==1.0.22
 iso8601==0.1.12
 itypes==1.1.0
-Jinja2==2.9.6
 jsonfield==2.0.2
 jsonpath-rw==1.4.0
 jsonpickle==0.9.5
