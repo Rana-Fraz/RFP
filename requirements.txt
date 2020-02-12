@@ -36,7 +36,7 @@ defusedxml==0.5.0
 dj-core==0.0.4
 dj-core-drf==0.0.4
 dj-database-url==0.4.2
-Django==1.11.6
+Django==1.11.28
 django-allauth==0.33.0
 django-background-tasks==1.1.12
 django-braces==1.11.0
