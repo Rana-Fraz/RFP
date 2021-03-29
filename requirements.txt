@@ -122,7 +122,7 @@ pyasn1-modules==0.0.11
 pycparser==2.18
 PyDispatcher==2.0.5
 PyExecJS==1.4.0
-Pygments==2.2.0
+Pygments==2.7.4
 PyHamcrest==1.9.0
 PyJWT==1.5.3
 pymongo==3.4.0
