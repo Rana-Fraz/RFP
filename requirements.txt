@@ -76,7 +76,7 @@ gunicorn==19.7.1
 h2==3.0.1
 h5py==2.7.0
 hpack==3.0.0
-html5lib==0.9999999
+html5lib==0.99999999
 httplib2==0.10.3
 hyperframe==5.1.0
 hyperlink==17.3.1
