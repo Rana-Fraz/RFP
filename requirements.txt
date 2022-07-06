@@ -91,7 +91,7 @@ jsonfield==2.0.2
 jsonpath-rw==1.4.0
 jsonpickle==0.9.5
 Keras==2.0.6
-lxml==3.8.0
+lxml==4.9.1
 Markdown==2.6.8
 MarkupSafe==1.0
 mock==2.0.0
